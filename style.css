@@ -1,0 +1,41 @@
+.block{
+	background-color: #67abff;
+	overflow-y: auto; 
+	height: 400px; 
+	width: 700px; 
+	border-radius: 25px;
+	
+
+}
+
+.username{
+	font-weight: 900;
+	color: #272e6b;
+	font-size: 110%;
+}
+
+.btn{
+
+	background-color: #5494fc;
+	color: #fdfaff;
+	border-radius: 25px;
+	padding: 8px;
+	margin: 40px;
+
+}
+.tweet{
+	background-color: #ffffff;
+	border-style: groove;
+	padding: 15px;
+	padding-left: -5px;
+	border-radius: 25px;
+
+}
+
+.gray{
+	background-color: #e0dedc;
+}
+
+
+
+
